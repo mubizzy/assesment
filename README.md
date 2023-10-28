@@ -1,16 +1,30 @@
+
 # assesement
 
-A new Flutter project.
+The Product Manager App is a Flutter application that allows users to manage and track products. It includes features for adding, retrieving, updating, and deleting products stored in an SQLite database.
 
-## Getting Started
+## Setup Instructions
 
-This project is a starting point for a Flutter application.
+To set up the app and the database connection, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Ensure you have Flutter and Dart installed on your system. If not, please follow the official Flutter installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Clone the Repository
+
+Clone this repository to your local machine using Git:
+
+```bash
+git clone https://github.com/mubizzy/assesment.git
+
+```
+###  3. Dependencies
+
+flutter pub get
+
+```bash
+flutter pub get
+
+```
+
